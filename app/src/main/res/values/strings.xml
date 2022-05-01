@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodaBeneTest</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="access_to_the_form">access to the form</string>
+    <string name="gtin">GTIN</string>
+    <string name="enter_the_gtin">Enter the GTIN</string>
+    <string name="enter_the_expiry_date">Enter the expiry date</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+</resources>
